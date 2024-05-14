@@ -14,8 +14,8 @@ This web application is a comprehensive tool for managing financial portfolios, 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java, Spring Boot
-- **Database:** (Include database technologies if applicable)
+- **Backend:** Java, TomCat
+- **Database:** mySQL, JDBC
 - **Authentication:** JSON Web Tokens (JWT)
 - **API:** REST API
 
