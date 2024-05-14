@@ -19,25 +19,12 @@ This web application is a comprehensive tool for managing financial portfolios, 
 - **Authentication:** JSON Web Tokens (JWT)
 - **API:** REST API
 
-## Getting Started
+## Additional Information
+This project is built using a REST API microservices architecture. Each project folder represents a separate service that communicates with other services through internal API calls. The main project folders include:
 
-1. Clone the repository: `git clone https://github.com/your-username/financial-portfolio.git`
-2. Install dependencies: (Include any specific installation steps)
-3. Start the backend server: `java -jar financial-portfolio.jar`
-4. Start the frontend application: (Include frontend setup instructions)
-5. Open the application in your browser: `http://localhost:3000`
+FrontEnd: Manages the user interface and interacts with other services to display data and handle user actions.
+CryptoTransaction: Handles transactions and management of cryptocurrency accounts.
+StockTransaction: Manages stock trading functionality, including buying and selling stocks.
+Signup: Handles user registration and authentication, providing secure access to the application.
+The use of microservices allows for greater scalability, flexibility, and maintainability of the application, as each service can be developed, deployed, and scaled independently. This architecture enables the application to efficiently handle complex operations and provide a seamless user experience.
 
-## Usage
-
-1. Register an account or login with existing credentials.
-2. Navigate to the trading section to buy or sell stocks.
-3. Manage your TFSA and cryptocurrency accounts in the respective sections.
-4. Visualize your portfolio performance and market trends in the dashboard.
-
-## Contributing
-
-Contributions to the project are welcome! Please follow the contribution guidelines in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under the [LICENSE NAME] License - see the LICENSE.md file for details.
