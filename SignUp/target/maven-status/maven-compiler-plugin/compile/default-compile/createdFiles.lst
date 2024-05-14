@@ -1,0 +1,7 @@
+torontomu/ca/signup/endpoint/ApplicationConfig.class
+torontomu/ca/signup/helper/UserDatasXML.class
+torontomu/ca/signup/helper/AccountData.class
+torontomu/ca/signup/business/SignUpBusiness.class
+torontomu/ca/signup/helper/UserData.class
+torontomu/ca/signup/persistence/User_CRUD.class
+torontomu/ca/signup/endpoint/SignupResource.class
