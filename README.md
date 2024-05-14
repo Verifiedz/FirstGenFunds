@@ -1,5 +1,6 @@
 # Financial Portfolio Management Web Application
 
+[![Screenshot-2024-05-13-at-8-45-50-PM.png](https://i.postimg.cc/cLprdsm7/Screenshot-2024-05-13-at-8-45-50-PM.png)](https://postimg.cc/CR4FNp9d)
 This web application is a comprehensive tool for managing financial portfolios, including trading stocks and managing accounts for Tax-Free Savings Accounts (TFSA) and cryptocurrency. It uses JSON Web Tokens (JWT) for authentication and a REST API for a microservices architecture, implemented in Java.
 
 ## Features
